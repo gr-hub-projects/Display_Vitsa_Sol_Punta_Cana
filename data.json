@@ -1,7 +1,48 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [],
+    "content": [
+      {
+        "id": "461-2656739",
+        "Flight": "NK784",
+        "PickupDate": "2025-10-08",
+        "PickupTime": "12:25",
+        "HotelName": "Hotel Vista Sol Punta Cana",
+        "HotelNumber": 13633
+      },
+      {
+        "id": "K5QRVD",
+        "Flight": "CM749",
+        "PickupDate": "2025-10-08",
+        "PickupTime": "14:49",
+        "HotelName": "Hotel Vista Sol Punta Cana",
+        "HotelNumber": 13633
+      },
+      {
+        "id": "146880883",
+        "Flight": "WS2903",
+        "PickupDate": "2025-10-08",
+        "PickupTime": "12:00",
+        "HotelName": "Hotel Vista Sol Punta Cana",
+        "HotelNumber": 13633
+      },
+      {
+        "id": "146547213",
+        "Flight": "WS2701",
+        "PickupDate": "2025-10-08",
+        "PickupTime": "08:50",
+        "HotelName": "Hotel Vista Sol Punta Cana",
+        "HotelNumber": 13633
+      },
+      {
+        "id": "145017363",
+        "Flight": "WS2903",
+        "PickupDate": "2025-10-08",
+        "PickupTime": "12:00",
+        "HotelName": "Hotel Vista Sol Punta Cana",
+        "HotelNumber": 13633
+      }
+    ],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
