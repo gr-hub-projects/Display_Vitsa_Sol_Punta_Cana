@@ -3,130 +3,66 @@
     "type": "JSON",
     "content": [
       {
-        "id": "148349513",
-        "Flight": "WS2799",
-        "PickupDate": "2026-01-18",
-        "PickupTime": "12:30",
-        "HotelName": "Hotel Vista Sol Punta Cana",
-        "HotelNumber": 13633
-      },
-      {
-        "id": "145881253",
-        "Flight": "WS2653",
-        "PickupDate": "2026-01-18",
-        "PickupTime": "08:15",
-        "HotelName": "Hotel Vista Sol Punta Cana",
-        "HotelNumber": 13633
-      },
-      {
-        "id": "147082563",
-        "Flight": "WS2799",
-        "PickupDate": "2026-01-18",
-        "PickupTime": "12:30",
-        "HotelName": "Hotel Vista Sol Punta Cana",
-        "HotelNumber": 13633
-      },
-      {
-        "id": "146936633",
-        "Flight": "WS2799",
-        "PickupDate": "2026-01-18",
-        "PickupTime": "12:30",
-        "HotelName": "Hotel Vista Sol Punta Cana",
-        "HotelNumber": 13633
-      },
-      {
-        "id": "8DT3Y8",
-        "Flight": "WS2103",
-        "PickupDate": "2026-01-18",
+        "id": "148761263",
+        "Flight": "WS2913",
+        "PickupDate": "2026-01-19",
         "PickupTime": "13:00",
         "HotelName": "Hotel Vista Sol Punta Cana",
         "HotelNumber": 13633
       },
       {
-        "id": "146891983",
-        "Flight": "WS2653",
-        "PickupDate": "2026-01-18",
-        "PickupTime": "08:15",
+        "id": "77CXNJ",
+        "Flight": "DM6200",
+        "PickupDate": "2026-01-19",
+        "PickupTime": "11:20",
         "HotelName": "Hotel Vista Sol Punta Cana",
         "HotelNumber": 13633
       },
       {
-        "id": "461-2741999",
-        "Flight": "LA2461",
-        "PickupDate": "2026-01-18",
-        "PickupTime": "16:10",
+        "id": "GVV342646",
+        "Flight": "NK0784",
+        "PickupDate": "2026-01-19",
+        "PickupTime": "14:15",
         "HotelName": "Hotel Vista Sol Punta Cana",
         "HotelNumber": 13633
       },
       {
-        "id": "147082253",
-        "Flight": "WS2799",
-        "PickupDate": "2026-01-18",
-        "PickupTime": "12:30",
+        "id": "146724033",
+        "Flight": "WS2675",
+        "PickupDate": "2026-01-19",
+        "PickupTime": "14:50",
         "HotelName": "Hotel Vista Sol Punta Cana",
         "HotelNumber": 13633
       },
       {
-        "id": "147109763",
-        "Flight": "WS2653",
-        "PickupDate": "2026-01-18",
-        "PickupTime": "08:15",
+        "id": "146217423",
+        "Flight": "WS2743",
+        "PickupDate": "2026-01-19",
+        "PickupTime": "15:15",
         "HotelName": "Hotel Vista Sol Punta Cana",
         "HotelNumber": 13633
       },
       {
-        "id": "144819203",
-        "Flight": "WS2913",
-        "PickupDate": "2026-01-18",
-        "PickupTime": "12:55",
+        "id": "146724023",
+        "Flight": "WS2743",
+        "PickupDate": "2026-01-19",
+        "PickupTime": "15:15",
         "HotelName": "Hotel Vista Sol Punta Cana",
         "HotelNumber": 13633
       },
       {
-        "id": "147073903",
-        "Flight": "WS2653",
-        "PickupDate": "2026-01-18",
-        "PickupTime": "08:15",
+        "id": "144540403",
+        "Flight": "WS2675",
+        "PickupDate": "2026-01-19",
+        "PickupTime": "14:50",
         "HotelName": "Hotel Vista Sol Punta Cana",
         "HotelNumber": 13633
       },
       {
-        "id": "144819223",
-        "Flight": "WS2913",
-        "PickupDate": "2026-01-18",
-        "PickupTime": "12:55",
-        "HotelName": "Hotel Vista Sol Punta Cana",
-        "HotelNumber": 13633
-      },
-      {
-        "id": "147756603",
-        "Flight": "WS2799",
-        "PickupDate": "2026-01-18",
-        "PickupTime": "12:30",
-        "HotelName": "Hotel Vista Sol Punta Cana",
-        "HotelNumber": 13633
-      },
-      {
-        "id": "146892393",
-        "Flight": "WS2653",
-        "PickupDate": "2026-01-18",
-        "PickupTime": "08:15",
-        "HotelName": "Hotel Vista Sol Punta Cana",
-        "HotelNumber": 13633
-      },
-      {
-        "id": "147756153",
-        "Flight": "WS2799",
-        "PickupDate": "2026-01-18",
-        "PickupTime": "12:30",
-        "HotelName": "Hotel Vista Sol Punta Cana",
-        "HotelNumber": 13633
-      },
-      {
-        "id": "146892023",
-        "Flight": "WS2653",
-        "PickupDate": "2026-01-18",
-        "PickupTime": "08:15",
+        "id": "146501623",
+        "Flight": "WS2101",
+        "PickupDate": "2026-01-19",
+        "PickupTime": "10:45",
         "HotelName": "Hotel Vista Sol Punta Cana",
         "HotelNumber": 13633
       }
